@@ -63,8 +63,8 @@
     }
  ## Вхідні дані
 
-![Photo 1](Docs/Images/Вхідні данні.png)
+![Photo 1](Docs/Images/Open.png)
 
  ## Вихідні дані
 
-![Photo 2](Docs/Images/Вихідні данні.png)
+![Photo 2](Docs/Images/Close.png)
