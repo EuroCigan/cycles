@@ -63,8 +63,8 @@
     }
  ## Вхідні дані
 
-![Lms task 7](docs/images/Вхідні данні.png)
+![Lms task 7](Docs/Images/Вхідні данні.png)
 
  ## Вихідні дані
 
-![Lms task 7](docs/images/Вихідні данні.png)
+![Lms task 7](Docs/Images/Вихідні данні.png)
